@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: kaustubhkoshti/app6
+  pullPolicy: Alwase
+  tag: latest
+
